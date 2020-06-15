@@ -10,13 +10,13 @@ WhatSpeed
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT" width="400">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT" >
   </a>
 </p>
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="assets/gif.gif" alt="demo" height="425">
+  <img src="assets/gif.gif" alt="demo">
 </div>
 
 <hr />
